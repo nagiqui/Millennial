@@ -7,7 +7,7 @@ a  {
   width: $container-width;
   position: centered;
   background-color: #222222;
-  box-shadow: 0 5px 6px -6px #bbb;
+  box-shadow: 0 5px 6px -px #bbb;
   z-index: 100;
 }
 @media (max-width: $container-width) {
