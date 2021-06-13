@@ -10,7 +10,8 @@ a  {
   line-height: 45px;
   width: $container-width;
 }
-.footer #eeeeee;
+.footer a {
+  color: #eeeeee;
   padding: 0px 10px 0px;
   text-decoration: none;
 }
