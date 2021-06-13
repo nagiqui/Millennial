@@ -61,7 +61,7 @@ a  {
   }
   .dropbtn {
     background-color: #222222;
-    color: #ececfb;
+    color: #ffffff;
     padding: 16px;
     margin-top: 4px;
     font-size: 16px;
@@ -86,11 +86,7 @@ a  {
     text-decoration: none;
     display: block;
   }
-  .dropdown-content a:hover {
-    background-color: #222222;
-  }
-  .dropdown:hover .dropdown-content {
-    display: block;
+  .dropdown-content a:hover {s
   }
   .dropdown:hover .dropbtn {
     background-color: #22222;
