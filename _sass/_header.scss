@@ -61,7 +61,7 @@ a  {
   }
   .dropbtn {
     background-color: #222222;
-    color: #ffffff;
+    color: #eeeeee;
     padding: 16px;
     margin-top: 4px;
     font-size: 16px;
@@ -76,17 +76,22 @@ a  {
     display: none;
     position: absolute;
     background-color: #222222;
-    color: #ffffff;
+    color: #eeeeee;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
   }
-  .dropdo#eeeeee;
+  .dropdown-content a {
+    color: #eeeeee;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
   }
-  .dropdown-content a:hover {s
+  .dropdown-content a:hover {
+    background-color: #222222;
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
   }
   .dropdown:hover .dropbtn {
     background-color: #22222;
