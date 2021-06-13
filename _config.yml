@@ -18,4 +18,4 @@ author:              "Paul Le"
 #feed:
 #  path: rss-feed.xml
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
