@@ -1,6 +1,7 @@
 a  {
        color: #ffffff;
 }
+
 .footer {
   background: #222222;
   color: $brand-color;
@@ -9,8 +10,7 @@ a  {
   line-height: 45px;
   width: $container-width;
 }
-.footer a {
-  color: $brand-color;
+.footer #eeeeee;
   padding: 0px 10px 0px;
   text-decoration: none;
 }
@@ -26,7 +26,7 @@ a  {
 }
 .footer-description {
   display: block;
-  margin-bottom: 1rem;
+  margin-bottom: 1rem;	
   color: #eeeeee;
   font-size:0.8rem;
 }
