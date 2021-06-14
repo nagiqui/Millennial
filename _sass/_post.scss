@@ -12,10 +12,9 @@
 } */
 .featured-image img {
   align: middle;
-  margin: 5px auto 25px;
+
   display: block;
   max-width: 100px;
-    min-width: 100px;
 }
 @media (max-width: $container-width) {
   .post-content {
