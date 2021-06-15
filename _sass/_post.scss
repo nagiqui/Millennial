@@ -11,11 +11,10 @@
   font-size:0.8rem;
 } */
 .featured-image img {
-  align: middle;
-
+  align:  left;
   display: block;
   max-width: 100px;
-}
+}s
 @media (max-width: $container-width) {
   .post-content {
     width: 60vw;
