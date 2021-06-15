@@ -13,8 +13,7 @@
 .featured-image img {
   align:  left;
   display: block;
-  max-width: 100px;
-  min-width: 100px;
+  width: 200px;
 }
 @media (max-width: $container-width) {
   .post-content {
