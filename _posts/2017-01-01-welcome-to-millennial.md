@@ -6,6 +6,7 @@ categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg
 ---
+{% include my-gallery.html folder="myfolder" %}
 
 Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
@@ -27,7 +28,8 @@ This theme is completely free and open source software. You may use it however y
 
 Lagrange is a minimalist Jekyll blog theme that I built from scratch. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog.
 
-Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme.
+Feel free to check out <a href="https://lenpaul.github.io/Lagrange/" target="_blank">the demo</a>, where you’ll also find instructions on <a href="https://lenpaul.github.io/Lagrange/journal/getting-started.html">how to use install</a> and use the theme{% include my-gallery.html folder="myfolder" %}
+
 
 ### Portfolio Jekyll Theme
 
