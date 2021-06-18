@@ -6,7 +6,7 @@ categories: documentation
 tags: [documentation,sample]
 image: cuba-1.jpg
 ---
- <a href="img/image-1.jpg" data-lightbox="image-1" title="My caption">image #1</a>
+ <a href="assets/img/image-1.jpg" data-lightbox="image-1" title="My caption">image #1</a>
 
 Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
