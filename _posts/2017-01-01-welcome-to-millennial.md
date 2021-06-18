@@ -7,11 +7,11 @@ tags: [documentation,sample]
 image: cuba-1.jpg
 ---
  <a href="assets/img/image-1.jpg" data-lightbox="image-1" title="My caption">image #1</a>
-<a href="/assets/img/image-1.jpg" data-lightbox="image-1" data-title="1978 Yamaha XS750">
-  <img width="100" src="/images/xs750.jpg"/>
+<a href="assets/img/image-1.jpg" data-lightbox="image-1" data-title="1978 Yamaha XS750">
+  <img width="100" src="assets/img/image-1.jpg/>
 </a>
 <a href="assets/img/image-1.jpg" data-lightbox="image-1" data-title="The Round Porch">
-  <img width="100" src="/images/roundporch.jpg"/>
+  <img width="100" src="assets/img/image-1.jpg"/>
 </a>
 Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
