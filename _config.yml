@@ -8,8 +8,8 @@ markdown:            kramdown
 highlighter:         rouge
 permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
-imagesurl: "assets/img"
-thumbsurl: "assets/thumb"
+imagesurl: "/nagi/assets/img/"
+thumbsurl: "/nagi/assets/thumb"/
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "Nagi"
