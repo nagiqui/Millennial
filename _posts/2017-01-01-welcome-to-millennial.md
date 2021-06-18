@@ -7,7 +7,6 @@ tags: [documentation,sample]
 image: cuba-1.jpg
 ---
 
-{% include my-gallery.html folder="/assets/img" %}
 
 Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
 
@@ -44,8 +43,3 @@ The Jekyll Starter Kit is a simple framework for starting your own Jekyll projec
 
 Feel free to check out <a href="https://github.com/LeNPaul/jekyll-starter-kit" target="_blank">the GitHub repository</a>, where you’ll also find instructions on how to use install and use the theme.
 
-
-<script type="text/javascript" src="/js/lightbox.js"></script>
-<link rel="stylesheet" href="/css/lightbox.css">
-</body>
-</html>
