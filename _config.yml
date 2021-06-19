@@ -12,8 +12,8 @@ imagesurl: "assets/img/"
 thumbsurl: "assets/thumb/"
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Nagi"
-description:	       "Millenium a minimalist Jekyll theme for running a blog or publication"
+title:		           "NagiMillenium"
+description:	       " a minimalist Jekyll theme for running a blog or publication"
 author:              "Paul Le"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
