@@ -17,7 +17,7 @@
   text-decoration: underline;
 }
 .content-wrapper {
-  /*dding-top: $header-thickness+10px;*/
+  padding-top: $header-thickness+10px;
   margin: auto;
   display: block;
   width: $container-width - 20px;
