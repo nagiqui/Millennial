@@ -8,4 +8,3 @@ image: cuba-1.jpg
 ---
 
 {% include -gallery.html folder="/assets/img" %}
-
