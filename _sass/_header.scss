@@ -34,7 +34,8 @@ a  {
 }
 .menu-list {
   line-height: $header-thickness;
-  float: bottom;
+  float: right;
+  margin-left: 500px;
 }
 .menu-link {
   padding: 5px 10px;
