@@ -37,9 +37,8 @@ Togepi  4 Holo - Southern Islands - Japanase  | 90€
 Flareon h7/h32 Holo - Skyridge -   italian | 80€
 Chansey ex  96/109 Holo - X Ruby & Sapphire| 13€
 
-     5% di  sconto se  pagati con Crypto 
+5% di  sconto se  pagati con Crypto 
      5% discount when paid with Crypto
-
 
      Spedizione - Shipping 
 
