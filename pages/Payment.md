@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title:  Pagamento -   Payment
 permalink: /Payment
 ---
-
- Pagamento -   Payment
 
     Paypal - Crypto: Bitcoin, Monero, Cardano, Polkadot, Nano, BNB
  
