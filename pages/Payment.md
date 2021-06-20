@@ -4,4 +4,13 @@ title: About
 permalink: /Payment
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+ Pagamento -   Payment
+
+    Paypal - Crypto: Bitcoin, Monero, Cardano, Polkadot, Nano, BNB
+ 
+     Bitcoin: Lightning network, SegWit
+     XMR:  Monero
+     NANO:  Nano
+     ADA: Cardano , BSC 
+     DOT : Polkadot, BSC 
+     BNB: BSC, BEP20
