@@ -4,6 +4,8 @@ title:  Pagamento -   Payment
 permalink: /Payment
 ---
 
+
+
     Paypal - Crypto: Bitcoin, Monero, Cardano, Polkadot, Nano, BNB
  
      Bitcoin: Lightning network, SegWit
