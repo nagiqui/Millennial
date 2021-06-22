@@ -1,4 +1,4 @@
-T# Change 'comments' to true for Disqus comments
+# Change 'comments' to true for Disqus comments
 # disqus:
  #  comments: false
   # : 'millennial-3'
