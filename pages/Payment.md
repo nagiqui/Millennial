@@ -14,7 +14,9 @@ permalink: /Payment
      DOT: Polkadot, BSC 
      BNB: BSC, BEP20
 	 
-	 BTC: bc1qxjn2yrp2ljgxrzgu6a5zmyu9h4n9hnzyvryrfu
+	 BTC: bc1qxjn2yrp2ljgxrzgu6a5zmyu9h4n9hnzyvryrfu 
+	 Lightning: 
+	 
 	 ETH: 0xD9F267d2124E26A99fD1F65F6e903aFf3E25998f
 	 XMR: 476Y21iE6sGKW3HjVmdGYpGGsWrpssYpyENkqeMjW8GrhGLWsEtXfkMcQcWmc7bTS91Ys9D4xSJNCPRbu96H7a4mVFtPdWX
 	 NANO: nano_3x9a96xsc3zw8md3bbbt3fwrwsnfpcmcse4i8r6ogzxax49sdudii4t5haxt
