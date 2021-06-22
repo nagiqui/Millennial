@@ -28,5 +28,4 @@ permalink: /Payment
 	 DOT: 14WhYEFWexf8fx88S51zTpHYeAoe6QDRULYvaCM27ge6ARJn
 	 
 	 BNB: bnb1yrk8dg5l5jgg08sdcpjmvpqysmgt9fz3wx59e8
-
 	 BSC: 0x1b01998cDFA498D0670aa4ec63Eb907f3f5C9ce6
