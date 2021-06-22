@@ -12,4 +12,4 @@ permalink: /Payment
      ADA: Cardano , BSC 
      DOT : Polkadot, BSC 
      BNB: BSC, BEP20 
-     BNB: BSC, BEP20 
+    
