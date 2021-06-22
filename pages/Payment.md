@@ -3,7 +3,8 @@ layout: page
 title:  Pagamento -   Payment
 permalink: /Payment
 ---
-     Paypal - Crypto: Bitcoin, Ethereum, Monero, Cardano, Polkadot, Nano, BNB
+     -Paypal  
+	 -Crypto: Bitcoin, Ethereum, Monero, Cardano, Polkadot, Nano, BNB
  
      BTC: Lightning network, SegWit
 	 ETH: Ethereum, BSC
@@ -12,4 +13,3 @@ permalink: /Payment
      ADA: Cardano , BSC 
      DOT : Polkadot, BSC 
      BNB: BSC, BEP20 
-    
