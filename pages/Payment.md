@@ -11,7 +11,7 @@ permalink: /Payment
 	 ETH: Ethereum, BSC
      XMR:  Monero
      NANO: Nano
-     ADA: Cardano , BSC 
+     ADA: Cardano, BSC 
      DOT: Polkadot, BSC 
      BNB: BSC, BEP20
 	 
