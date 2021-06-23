@@ -4,7 +4,7 @@ title: "Pokèmon Cards"
 author: "ScaryNag"
 categories:  cards
 tags: [documentation,sample]
-image:  \nagi\assets\banette.jpg
+image:  nagi\assets\banette.jpg
 ---
 
 {% include image-gallery.html folder="/assets/img" %}
