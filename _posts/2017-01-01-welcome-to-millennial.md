@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Pokèmon Cards"
-author: "ScaryNagi"
+author: "ScaryNag"
 categories:  cards
 tags: [documentation,sample]
-image: cuba-1.jpg
+image: banette.jpg
 ---
 
 {% include image-gallery.html folder="/assets/img" %}
