@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pokèmon Cards"
-author: "SCaryNagi"
+author: "ScaryNagi"
 categories:  cards
 tags: [documentation,sample]
 image: cuba-1.jpg
