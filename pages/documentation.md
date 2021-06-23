@@ -1,6 +1,6 @@
 ---
 layout: category
-title:           Other
+title:          Other 
 category: other
 permalink: /other
 ---
