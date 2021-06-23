@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
-categories: cards
+title: "Pokèmon Cards"
+author: "Sc arynagi"
+categories:  cards
 tags: [documentation,sample]
 image: cuba-1.jpg
 ---
