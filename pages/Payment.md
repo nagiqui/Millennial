@@ -5,11 +5,11 @@ permalink: /Payment
 ---
      Paypal  
 	 
-	 Crypto: Bitcoin, Ethereum, Monero, ,Cardano Polkadot, Nano, BNB
+	 Crypto: Bitcoin, Ethereum, Monero, Cardano, Polkadot, Nano, BNB
  
      BTC: Lightning network, SegWit
 	 ETH: Ethereum, BSC
-     XMR:  Monero
+     XMR: Monero
      NANO: Nano
      ADA: Cardano, BSC 
      DOT: Polkadot, BSC 
