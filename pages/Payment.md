@@ -16,7 +16,6 @@ permalink: /Payment
      BNB: BSC, BEP20
 	 
 	 BTC: bc1qxjn2yrp2ljgxrzgu6a5zmyu9h4n9hnzyvryrfu 
-	 Lightning: 
 	 
 	 ETH: 0xD9F267d2124E26A99fD1F65F6e903aFf3E25998f
 	 
