@@ -83,8 +83,8 @@ Chansey ex  96/109 Holo - X Ruby & Sapphire| 13€
 
      Spedizione - Shipping 
 
-    Italia: Posta 1 | 3.10€ - Corriere 24h/48h 6,50€
-    International: Priority EU/RU 3,80€ -  Priority (Americas, Asia) 4,20€ - Priority (Oceania) 4,60€ 
+    Italia: Posta 1 | 3,10€ - Corriere 24h/48h 6,50€
+    International: Priority EU/RU 3.80€ -  Priority (Americas, Asia) 4.20€ - Priority (Oceania) 4.60€ 
        _____________________________
 
     Spedizione combinata disponibile.
@@ -93,7 +93,7 @@ Chansey ex  96/109 Holo - X Ruby & Sapphire| 13€
 
      Pagamento -   Payment
 
-     Paypal - Crypto: Bitcoin, Monero, Cardano, Polkadot, Nano, BNB
+     Paypal - Crypto: Bitcoin, Ethereum, Monero, Cardano, Polkadot, Nano, BNB
  
      BTC: Lightning network, SegWit
 	 ETH: Ethereum, BSC
