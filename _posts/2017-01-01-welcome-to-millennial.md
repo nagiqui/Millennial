@@ -7,7 +7,7 @@ tags: [documentation,sample]
 image: banette.jpg
 ---
 
-{% assign filenames = "b.jpg,bb.jpg,bb2.jpg,c.jpg,ce.jpg,d.jpg,db.jpg,dc.jpg,dd.jpg,e.jpg,falreon.jpg,g.jpg,gg.jpg,gi.jpg,h.jpg,j.jpg,l.jpg,l2.jpg,ld.jpg,m.jpg,p.jpg,sw.jpg,t.jpg,tg.jpg,u.jpg,v.jpg,w.jpg" | split: "," %}
+{% assign filenames = "b.jpg,bb.jpg,bb2.jpg,c.jpg,ce.jpg,d.jpg,db.jpg,dc.jpg,dd.jpg,e.jpg,falreon.jpg,g.jpg,gg.jpg,gi.jpg,h.jpg,j.jpg,l.jpg,l2.jpg,ld.jpg,m.jpg,p.jpg,sw.jpg,t.jpg,tg.jpg,u.jp,v.jpg,w.jpg" | split: "," %}
 <div class ="image-gallery">
 {% for name in filenames %}
     <div class="box">
