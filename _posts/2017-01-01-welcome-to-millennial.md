@@ -7,8 +7,7 @@ tags: [documentation,sample]
 image: banette.jpg
 ---
 
-{% include my-gallery.htmlassign filenames = "b.jpg,bb.jpg,bb2.jpg,c.jpg,ce.jpg,d.jpg,db.jpg,dc.jpg,dd.jpg,e.jpg,falreon.jpg,g.jpg,gg.jpg,gi.jpg,h.jpg,j.jpg,l.jpg,l2.jpg,ld.jpg,m.jpg,p.jpg,sw.jpg,t.jpg,tg.jpg,u.jp,v.jpg,w.jpg" | split: "," %}
-   
+{% include my-gallery.html assign filenames = "b.jpg,bb.jpg,bb2.jpg,c.jpg,ce.jpg,d.jpg,db.jpg,dc.jpg,dd.jpg,e.jpg,falreon.jpg,g.jpg,gg.jpg,gi.jpg,h.jpg,j.jpg,l.jpg,l2.jpg,ld.jpg,m.jpg,p.jpg,sw.jpg,t.jpg,tg.jpg,u.jp,v.jpg,w.jpg" | split: "," %}
 
 Muk 13/63 Holo - Fossil - Italian | 14€
 Umbreon 13/75 Holo Neo Discovery  | 46€
