@@ -7,8 +7,16 @@ tags: [documentation,sample]
 image: banette.jpg
 ---
 
-{% include image-gallery.html folder="/assets/img" %}
- 
+{% assign filenames = "b.jpg,bb.jpg,bb2.jpg,c.jpg,ce.jpg,d.jpg,db.jpg,dc.jpg,dd.jpg,e.jpg,falreon.jpg,g.jpg,gg.jpg,gi.jpg,h.jpg,j.jpg,l.jpg,l2.jpg,ld.jpg,m.jpg,p.jpg,sw.jpg,t.jpg,tg.jpg,u.jp,v.jpg,w.jpg" | split: "," %}
+<div class ="image-gallery">
+{% for name in filenames %}
+    <div class="box">
+    <a href="{{ site.imagesurl }}{{ name }}">
+      <img src="{{ site.thumbsurl }}{{ name }} " alt="{{ name }}"  class="img-gallery" />
+     </a>
+    </div>
+ {% endfor %}
+</div> 
 Muk 13/63 Holo - Fossil - Italian | 14€
 Umbreon 13/75 Holo Neo Discovery  | 46€
 Chansey ex 96/109 - eX Ruby & Sapphire |  24
