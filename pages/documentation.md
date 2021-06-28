@@ -1,6 +1,6 @@
 ---
 layout: category
-title:          Other 
-category: other
-permalink: /other
+title:          Misc 
+category: misc
+permalink: /misc
 ---

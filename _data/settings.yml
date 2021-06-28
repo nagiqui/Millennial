@@ -10,7 +10,7 @@ menu:
 # {name: 'Interesting Facts',  url: 'facts'}
 #- {name: 'Learning Resources', url: 'resources'}
 - {name: 'Cards',       url: 'cards'}
-- {name: 'Other',      url: 'other'}
+- {name: 'Misc',      url: 'misc'}
 - {name: 'Payment',              url: 'Payment'}
 - {name: 'Contact',            url: 'contact'}
 
