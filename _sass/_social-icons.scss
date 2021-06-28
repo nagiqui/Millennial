@@ -26,8 +26,7 @@
 
 .fa-shopping-cart
   padding: 5px;
-  @include social-media-icon($shopping-cart
- -color, $icon-transition-time);
+  @include social-media-icon($shopping-cart -color, $icon-transition-time);
 }
 
 .fa-github {
