@@ -26,7 +26,7 @@
 
 .fa-shopping {
   padding: 5px;
-  @include social-media-icon($ebay-color, $icon-transition-time);
+  @include social-media-icon($shopping-color, $icon-transition-time);
 }
 
 .fa-github {
