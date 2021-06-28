@@ -23,10 +23,10 @@
   padding: 5px;
   @include social-media-icon($instagram-color, $icon-transition-time);
 }
+
 .fa-ebay {
   padding: 5px;
-  @include social-media-icon($ebay-color, $icon-transition-time);<i class="fab fa-ebay"></i>
-
+  @include social-media-icon($ebay-color, $icon-transition-time);
 }
 
 .fa-github {
