@@ -39,6 +39,10 @@ a  {
 }
 .menu-link {
   padding: 5px 10px;
+  a[href*="twitter.com/"] {
+background:url(https://twitter.com/favicon.ico) no-repeat left center;
+padding-left:19px;
+}
 }
 
 /*
