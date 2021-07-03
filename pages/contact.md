@@ -4,4 +4,10 @@ title: Contact
 permalink: /contact
 ---
 
-This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Millennial%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/Millennial/issues/new).
+Twitter:https://twitter.com/NagiScary
+Facebook:https://www.facebook.com/
+Instagram:https://www.instagram.com/
+Ebay:https://www.ebay.it/usr/scarynagi
+Subito:https://www.subito.it/hobby-collezionismo/pokemon-tcg-2-pokemon-carte-pavia-392820189.htm
+Kijiji:https://www.kijiji.it/annunci/collezionismo-e-fai-da-te/pavia-
+Shpock::https://www.shpock.com/shop/ScaryNagi/items
